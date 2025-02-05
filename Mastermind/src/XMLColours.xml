@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+    <colours>java.awt.Color[r=255,g=51,b=51]</colours> //red
+    <colours>java.awt.Color[r=102,g=153,b=255]</colours> //blue
+    <colours>java.awt.Color[r=102,g=255,b=102]</colours> //green
+    <colours>java.awt.Color[r=255,g=255,b=102]</colours> //yellow
+    <colours>java.awt.Color[r=0,g=204,b=204]</colours> //teal
+    <colours>java.awt.Color[r=204,g=153,b=255]</colours> //purple
+    <colours>java.awt.Color[r=0,g=0,b=0]</colours> //black
+    <colours>java.awt.Color[r=255,g=255,b=255]</colours> //white
+
+</root>
