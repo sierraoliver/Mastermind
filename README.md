@@ -5,7 +5,7 @@ This is a creation of the classic Mastermind game where you need to guess the co
 
 There are 3 modes of difficulty: easy, medium and hard, which vary in the amount of colour options in the pattern. There is also an option to include duplicate colours to make the game harder as well. 
 
-This game was made in NetBeans using Java and xml files to store the colours and high score values. 
+This game was made in NetBeans using Java and XML files to store the colours and high score values. 
 
 ------------------------------------------------------------------------------------
 <h2>Download</h2>
